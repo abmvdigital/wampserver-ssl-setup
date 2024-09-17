@@ -15,14 +15,6 @@ Este script simplifica significativamente o processo de configuração do SSL pa
 3. O script irá gerar o certificado SSL e configurar o Apache automaticamente.
 4. Após a conclusão, o certificado SSL estará pronto para uso no servidor local.
 
-
-## 🌟 Apoie o Wampserver SSL Setup!
-
-Use a chave PIX abaixo para fazer sua doação:
-
-
-![QRCODE PIX](https://raw.githubusercontent.com/abmvdigital/wampserver-ssl-setup/main/QRCODE_PIX.png)
-
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
